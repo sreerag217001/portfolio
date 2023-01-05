@@ -1,0 +1,59 @@
+#c1{
+    width:100%;
+    height:590px;
+    background-image: url(./images/istockphoto-1294603953-612x612.jpg);
+}
+#c2{
+    width:480px;
+    height: 480px;
+    position: absolute;
+    top:140px;
+    left:420px;
+}
+#c2 img{
+    width:480px;
+    height: 480px;
+    border-radius: 400px;
+}
+h1,h6{
+    color:white;
+}
+#c3{
+    margin-left: 100px;
+    text-decoration: underline;
+    color:antiquewhite;
+}
+p{
+    margin-left: 80px;
+    color: antiquewhite;
+}
+#bg{
+    background-color:#066e91;
+}
+.c4{
+    margin-left: 100px;
+    text-decoration: underline;
+    color:black
+}
+#h1{
+    color: black;
+    margin-left: 500px;
+}
+.card-body{
+    background-color:#4a4343;
+}
+#f1{
+    background-color: #4c9a9c;
+}
+#f2{
+    background-color:#c42734;
+}
+.form-control{
+    background-color: #b0dceb;
+}
+li a:hover{
+    color: red;
+    list-style-type: none;
+}
+
+
